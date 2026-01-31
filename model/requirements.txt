@@ -1,0 +1,9 @@
+tensorflow
+numpy
+matplotlib
+scipy
+jupyterlab
+tqdm
+flax
+optax
+google-metrax
