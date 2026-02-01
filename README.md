@@ -27,5 +27,5 @@ learn how to process audio signals and extract features for deep learning
 ### performance
 
 - trained on ~8k 1 second 16khz audio samples
-- 88% accuracy
+- 88% accuracy using basic CNN model
 
