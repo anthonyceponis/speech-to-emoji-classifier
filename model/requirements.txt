@@ -1,4 +1,5 @@
 tensorflow
+joblib
 numpy
 matplotlib
 scipy
@@ -7,3 +8,7 @@ tqdm
 flax
 optax
 google-metrax
+fastapi
+uvicorn
+python-multipart
+pydantic
