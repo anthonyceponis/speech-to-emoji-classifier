@@ -6,6 +6,8 @@ https://github.com/user-attachments/assets/8da73ef7-26d9-4f6f-8ced-7f38b88d0b13
 
 ### setup
 
+in the project root directory:
+
 ```bash
 make # to setup the project
 make run # to run the website and model servers
