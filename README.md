@@ -24,3 +24,8 @@ learn how to process audio signals and extract features for deep learning
 - mel filterbank matrix
 - various tricks like window framing and human perception of sound being logarithmic
 
+### performance
+
+- trained on ~8k 1 second 16khz audio samples
+- 88% accuracy
+
