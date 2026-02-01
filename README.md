@@ -2,9 +2,7 @@
 
 ### demo
 
-<video src="demo.mp4" width="600" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
+<video src="demo.mp4" controls="controls" style="max-width: 100%;"/>
 
 ### motivation
 
